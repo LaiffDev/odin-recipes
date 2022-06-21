@@ -1,3 +1,3 @@
 # odin-recipes
-Recipe list
+Recipe list.
 Making a list of recipes
