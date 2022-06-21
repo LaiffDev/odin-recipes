@@ -1,0 +1,31 @@
+h1{
+   font-weight: bold;
+   font-size: 45px;
+   text-align: center;
+   color: #cd9641;
+}
+
+li{
+   text-align: center;
+   padding: 10px;
+   font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul{
+   list-style: none;
+   padding: 0;
+}
+
+a{
+   text-decoration: none;
+   color: #cd9641;
+}
+
+img{
+   width: 100%;
+}
+
+h3{
+   text-align: center;
+   color:#b3b3b3;
+}
