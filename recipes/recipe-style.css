@@ -1,0 +1,12 @@
+img{
+   width: 500px;
+}
+
+.container{
+   text-align: center;
+   margin: auto;
+}
+
+ul, ol{
+   list-style: none;
+}
